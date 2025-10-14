@@ -694,7 +694,7 @@ Multi-zone MIGs improve **availability**, **resilience**, and **fault tolerance*
 
 ---
 
-### ⚙️ Configuration Details
+### Configuration Details
 
 - **Name:** `mig-stateless-multiple-zones`  
 - **Description:** `mig-stateless-multiple-zones`  
@@ -754,7 +754,7 @@ The group will automatically distribute instances across multiple zones for high
 
 ---
 
-## 🔍 Step 21: Review Managed Instance Group Properties
+## Step 21: Review Managed Instance Group Properties
 
 After creation, review the MIG configuration and confirm instances have been deployed correctly across zones.
 
